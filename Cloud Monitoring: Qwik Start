@@ -1,3 +1,3 @@
-curl -LO raw.githubusercontent.com/SheBright/Cloud-Monitoring-Qwik-Start/refs/heads/main/SheBright.sh
-sudo chmod +x SheBright.sh
-./SheBright.sh
+curl -LO raw.githubusercontent.com/TechXNinjas/Cloud-Monitoring-Qwik-Start/refs/heads/main/TechXNinjas.sh
+sudo chmod +x TechXNinjas.sh
+./TechXNinjas.sh
